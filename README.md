@@ -3,7 +3,7 @@
 
 <H1> Hi, I'm Patrick Souza <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </H1>
 
-- 💾 **Database Technologist** - Fatec SJC - Prof. Jessen Vidal - 5/6 Semester 
+- 💾 **Database Technologist** - Fatec SJC - Prof. Jessen Vidal - 6/6 Semester 
 
 <!--- stats & Trophy (start) -->
 <p align="center">
